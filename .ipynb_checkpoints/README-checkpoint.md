@@ -1,0 +1,2 @@
+# Lab6
+CMPINF 0010 LAB 6
